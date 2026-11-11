@@ -8,7 +8,7 @@ The project was developed to explore 3D graphics, animations, lighting, textures
 ## Demo Video
 
 Watch the project in action:
-[▶ Watch the Konark Wheel Demo](SolarSystemPreview.gif)
+[▶ Watch the Konark Wheel Demo]()
 
 ## Preview
 ![Solar System Preview](screenshots/solar-systemPreview.png)
