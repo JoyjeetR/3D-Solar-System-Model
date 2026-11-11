@@ -11,7 +11,6 @@ Watch the project in action:
 [▶ Watch the Konark Wheel Demo]()
 
 ## Preview
-[▶ Watch the Konark Wheel Demo]
 ![Solar System Preview](screenshots/solar-systemPreview.png)
 
 ## Features
