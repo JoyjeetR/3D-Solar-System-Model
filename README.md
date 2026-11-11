@@ -8,6 +8,7 @@ The project was developed to explore 3D graphics, animations, lighting, textures
 ## Demo Video
 
 Watch the project in action:
+
 [▶ Watch the Konark Wheel Demo](https://github.com/user-attachments/assets/e26cfe8c-1acf-4a8a-912b-7ff9dae6f278)
 
 ## Preview
