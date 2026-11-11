@@ -8,7 +8,7 @@ The project was developed to explore 3D graphics, animations, lighting, textures
 ## Demo Video
 
 Watch the project in action:
-[▶ Watch the Konark Wheel Demo](SolarSystemPreview.gif)
+[▶ Watch the Konark Wheel Demo](https://github.com/JoyjeetR/3D-Solar-System-Model/blob/main/screenshots/SolarSystemPreview.gif)
 
 ## Preview
 ![Solar System Preview](screenshots/solar-systemPreview.png)
